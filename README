@@ -1,0 +1,13 @@
+IK2213 ASSIGNMENT 4
+RUDP
+
+Yuxin Cheng
+yuxinc@kth.se
+Hio lan Lei
+hilei@kth.se
+Make all
+./vs_send [-d] host1:port1 [host2:port2 ...] file1 [file2 ...]
+
+./vs_recv [-d] port
+
+
